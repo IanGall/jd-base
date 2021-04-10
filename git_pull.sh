@@ -22,7 +22,7 @@ ContentDropTask=${ShellDir}/drop_task
 SendCount=${ShellDir}/send_count
 isTermux=${ANDROID_RUNTIME_ROOT}${ANDROID_ROOT}
 ScriptsURL=https://github.com/cupppbk/linshi.git
-ShellURL=git@github.com:IanGall/jd-base.git
+ShellURL=https://github.com/IanGall/jd-base.git
 DockerURL=https://gitee.com/lxk0301/jd_docker
 
 ## 更新crontab，gitee服务器同一时间限制5个链接，因此每个人更新代码必须错开时间，每次执行git_pull随机生成。
